@@ -5,7 +5,7 @@ body{
     height: 100%;
     background: radial-gradient(ellipse at center, #201100, #101010);
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: 100%,100%;
     }
   
 .crt:before {
