@@ -1,22 +1,34 @@
 html{
     height: 100%;
 }
+
 body{
     background: radial-gradient(ellipse at center, #201100, #101010);
     font-family: Quantico;
     color: orange;
     text-align: center;
-    }
+    background-size: 100% 100%;
+    background-attachment:fixed;
+}
+
 a{
     color: inherit;
     text-decoration: none;
 }
+
 a:hover{
     color: white;
 }
+
+p::selection,a::selection,h1::selection,h3::selection {
+    background: darkorange;
+    color: white;
+}
+
 li{
     padding: 5px;
 }
+
 .ascii-art{
     text-align: left;
 }
@@ -27,6 +39,7 @@ li{
     align-items: center;
     text-align: center;
 }
+
 .container{
     display: flex;
     justify-content: center;
@@ -34,16 +47,17 @@ li{
     text-align: center;
     min-height: 100vh;
 }
+
 .content{
     width: 60%;
     padding: 10px;
     border: 3px dashed orange;
 }
 /* scanlines effect I found online */
-.crt:before {
+.crt::before {
     content: " ";
     display: block;
-    position: absolute;
+    position: fixed;
     top: 0;
     left: 0;
     bottom: 0;
@@ -57,14 +71,7 @@ li{
     z-index: 2;
     pointer-events: none;
 }
-@keyframes textShadow {
-    0% {
-        text-shadow: 0.4389924193300864px 0 1px rgba(0,30,255,0.5), -0.4389924193300864px 0 1px rgba(255,0,80,0.3), 0 0 3px;
-    }
-    5% {
-        text-shadow: 2.7928974010788217px 0 1px rgba(0,30,255,0.5), -2.7928974010788217px 0 1px rgba(255,0,80,0.3), 0 0 3px;
-    }
-}
+
 .scanline {
     width: 99%;
     height: 100px;
@@ -76,10 +83,12 @@ li{
         rgba(0, 0, 0, 0.1) 100%
     );
     opacity: 0.1;
-    position: absolute;
+    position: fixed;
     bottom: 100%;
     animation: scanline 10s linear infinite;
+
 }
+
 @keyframes scanline {
     0% {
         bottom: 100%;
