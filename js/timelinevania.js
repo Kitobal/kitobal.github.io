@@ -4,9 +4,9 @@ const timelineData =[
             "title": "Castlevania: Lament of Innocence",
             "jtitle": "Castlevania",
             "text": "The 11th century was a time of knighthood, when the medieval monarchs were waning due to feuding lords and knights. Two of the courageous knights fighting during this period were <b>Leon Belmont</b> and <b>Mathias Cronqvist</b>, who together with Leon's exceptional combat experience and Mathias' skills as a tactician led one of the strongest companies in the realm. <b>Walter Bernhard</b> was a powerful vampire who lived in a castle within a forest covered in eternal darkness. One day, Leon's fiancée, Sara, is kidnapped by this very vampire. Leon renounces his loyalty to the Church in order to save her. In the end, in order to avenge his fiancée's death, he manages to defeat Walter with the Vampire Killer Whip, created from Sara's soul. However, everything was just a plot by Leon's close friend Mathias, who had turned into a vampire in order to defy God, who allowed his wife to die of an illness. With Leon now walking the path of a Vampire Hunter in pursuit of Mathias, the Belmonts' eternal struggle against evil begins. From generation to generation, the Vampire Killer and the title of Vampire Hunter is passed down. Feared for their powers, they are shunned by society at large and lived in exile. What they also did not realize was that each foe slain only added to the power of Mathias. Meanwhile, Mathias leads a peaceful existence during this time but, growing more powerful over the years, he eventually declares himself King of the Night and changes his name to <b>Dracula Vlad Ţepeş</b>. He continued to hide in foreign lands, biding his time for when he would unleash his dreadful power upon the world.",
-            "img1": "img/castlevania/leon_belmont.png",
+            "img1": "img/castlevania/Leon_Belmont.png",
             "subimg1": "Leon Belmont",
-            "img2": "img/castlevania/mathias_cronqvist.png",
+            "img2": "img/castlevania/Mathias_Cronqvist.png",
             "subimg2": "Mathias Cronqvist"
         },
         {
