@@ -100,7 +100,7 @@ const timelineData =[
             "subimg2": "Dracula"
           },
           {
-            "year": "18XX",
+            "year": "18??",
             "title": "Castlevania: Order of Ecclesia",
             "jtitle": "悪魔城ドラキュラ 奪われた刻印 (Akumajō Dracula: Ubawareta Kokuin)",
             "text": "<b>Shanoa</b>, an Ecclesia member, has been chosen to be the bearer of Dominus, a Glyph that was developed to be used as a weapon against <b>Dracula</b>. Fellow member <b>Albus</b> steals the three pieces that make up Dominus out of jealousy. Shanoa pursues Albus and manages to retrieve the pieces. When she returns to Ecclesia's leader, <b>Barlowe</b>, it's revealed he wishes to revive Dracula with the help of Dominus. He and Shanoa battle, but Dracula's spirit leaks from Dracula's remains, which were stored in Ecclesia's headquarters, and takes control of Barlowe, resulting in Dracula being reborn in a host body. Shanoa heads to Dracula's newly risen castle and confronts him, managing to defeat him in the end.",
