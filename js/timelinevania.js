@@ -16,7 +16,7 @@ const timelineData =[
             "text": "The genocide of humanity begins at the hand of <b>Count Dracula</b>. Alerted to Dracula's existence, a secret team is sent in by the Eastern Orthodox Church to find and eliminate him. All attempts to suppress Dracula end in failure, so faced with no other options, the Church turns to the Belmont family of vampire hunters in hopes they could destroy Dracula. <b>Trevor Belmont</b> begins his journey into the castle and frees the freedom fighter <b>Grant Danasty</b>, the mage <b>Sypha Belnades</b>, and encounters the son of Dracula, <b>Alucard</b>. Joining forces, they succeed in vanquishing Dracula. Sypha then takes Trevor's hand in marriage, while Alucard, pained from killing his own father, submerges into an eternal slumber.Grant spends the rest of his life rebuilding Wallachia.",
             "img1": "/img/castlevania/Trevor_and_friends.png",
             "subimg1": "Trevor, Grant, Sypha and Alucard",
-            "img2": "/img/castlevania/Dracula_x.png",
+            "img2": "/img/castlevania/Dracula_X.png",
             "subimg2": "Dracula"
         },
         {
